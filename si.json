@@ -1,0 +1,70 @@
+{
+  "common": {
+    "appName": "CloudZen AI",
+    "welcome": "CloudZen AI වෙත සාදරයෙන් පිළිගනිමු",
+    "tagline": "කාලගුණ අවදානම් සහ එළිමහන් ආරක්ෂක උපදේශක",
+    "getStarted": "ආරම්භ කරන්න",
+    "login": "පිවිසෙන්න",
+    "register": "ලියාපදිංචි වන්න",
+    "next": "ඊළඟ",
+    "back": "ආපසු",
+    "skip": "මඟ හරින්න",
+    "finish": "සම්පූර්ණ කරන්න",
+    "save": "සුරකින්න",
+    "cancel": "අවලංගු කරන්න",
+    "readAloud": "හඬින් කියවන්න",
+    "stopVoice": "නවතන්න",
+    "refresh": "යාවත්කාලීන කරන්න",
+    "share": "බෙදාගන්න"
+  },
+  "auth": {
+    "loginTitle": "නැවත සාදරයෙන් පිළිගනිමු",
+    "loginSubtitle": "ඔබේ කාලගුණ තොරතුරු වෙත පිවිසෙන්න",
+    "emailLabel": "විද්‍යුත් තැපෑල",
+    "passwordLabel": "මුරපදය",
+    "confirmPasswordLabel": "මුරපදය තහවුරු කරන්න",
+    "fullNameLabel": "සම්පූර්ණ නම",
+    "forgotPassword": "මුරපදය අමතකද?",
+    "noAccount": "ගිණුමක් නැද්ද?",
+    "alreadyAccount": "දැනටමත් ගිණුමක් තිබේද?",
+    "signInGoogle": "Google සමඟ පිවිසෙන්න",
+    "resetPasswordTitle": "මුරපදය නැවත සකසන්න",
+    "resetPasswordSubtitle": "ඊමේල් ලිපිනය ඇතුළත් කරන්න",
+    "sendResetLink": "ලින්ක් එක යවන්න",
+    "resetSent": "මුරපදය නැවත සැකසීමේ සබැඳිය යවන ලදී!"
+  },
+  "wizard": {
+    "step1Title": "ඔබේ භාෂාව තෝරන්න",
+    "step1Sub": "අනතුරු ඇඟවීම් ලබා ගැනීමට කැමති භාෂාව තෝරන්න",
+    "step2Title": "ඔබේ වෘත්තිය හෝ කාර්යය?",
+    "step2Sub": "ඔබට ගැලපෙන උපදෙස් ලබා දීමට උපකාරී වේ",
+    "step3Title": "සෞඛ්‍ය තත්ත්වයන්",
+    "step3Sub": "ඔබට අදාළ සෞඛ්‍ය අවදානම් තෝරන්න",
+    "step4Title": "ස්ථාන ප්‍රවේශය (Location)",
+    "step4Sub": "ඔබ සිටින ප්‍රදේශයේ කාලගුණය ලබා ගැනීමට ප්‍රවේශය ලබා දෙන්න"
+  },
+  "userTypes": {
+    "student": "ශිෂ්‍ය / ශිෂ්‍යාව",
+    "farmer": "ගොවි මහතා",
+    "hiker": "සංචාරක / පයින් යන්නා",
+    "traveller": "ගමන් බිමන් යන්නා",
+    "fisherman": "ධීවර මහතා",
+    "other": "සාමාන්‍ය පරිශීලක"
+  },
+  "healthOptions": {
+    "heatstroke": "අධික රශ්මිය (Heatstroke)",
+    "uv_exposure": "UV කිරණ අවදානම",
+    "asthma": "ඇදුම සහ වායු තත්ත්වය",
+    "dehydration": "ජල විජලනය (Dehydration)",
+    "all": "සියලුම සෞඛ්‍ය තත්ත්වයන්",
+    "none": "විශේෂ සෞඛ්‍ය තත්ත්ව නොමැත"
+  },
+  "tabs": {
+    "home": "මුල් පිටුව",
+    "alerts": "ආපදා අනතුරු ඇඟවීම්",
+    "clothing": "ඇඳුම් උපදේශක",
+    "safety": "එළිමහන් ආරක්ෂාව",
+    "routes": "මාර්ග සෙවුම",
+    "settings": "සැකසීම්"
+  }
+}

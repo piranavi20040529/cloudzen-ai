@@ -1,0 +1,81 @@
+{
+  "common": {
+    "appName": "CloudZen AI",
+    "welcome": "Welcome to CloudZen AI",
+    "tagline": "AI Weather Risk & Outdoor Safety Advisor",
+    "getStarted": "Get Started",
+    "login": "Sign In",
+    "register": "Create Account",
+    "next": "Next",
+    "back": "Back",
+    "skip": "Skip",
+    "finish": "Complete Setup",
+    "save": "Save Preferences",
+    "cancel": "Cancel",
+    "readAloud": "Read Aloud",
+    "stopVoice": "Stop",
+    "refresh": "Refresh Data",
+    "share": "Share Brief"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to access personalized weather intelligence",
+    "emailLabel": "Email Address",
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "fullNameLabel": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "alreadyAccount": "Already have an account?",
+    "signInGoogle": "Continue with Google",
+    "resetPasswordTitle": "Reset Password",
+    "resetPasswordSubtitle": "Enter your email to receive a 6-digit verification code",
+    "sendResetLink": "Send Verification Code",
+    "resetSent": "If an account exists, a 6-digit code has been sent!",
+    "enterOtp": "Enter 6-Digit Verification Code",
+    "verifyOtpSub": "Enter the 6-digit OTP code sent to your email address",
+    "verifyOtpBtn": "Verify Code",
+    "resendOtp": "Resend Code",
+    "newPasswordTitle": "Create New Password",
+    "newPasswordSub": "Your identity is verified. Enter your new password below",
+    "newPasswordLabel": "New Password",
+    "confirmNewPasswordLabel": "Confirm New Password",
+    "resetSuccess": "Password reset successfully!",
+    "otpExpired": "Code expired or invalid. Please try again.",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "wizard": {
+    "step1Title": "Choose Your Language",
+    "step1Sub": "Select your preferred language for alerts & advice",
+    "step2Title": "What best describes you?",
+    "step2Sub": "We customize weather advice for your daily activities",
+    "step3Title": "Health Concerns & Alerts",
+    "step3Sub": "Select conditions you want AI health alerts for",
+    "step4Title": "Enable Location Services",
+    "step4Sub": "CloudZen AI needs location access to alert you about hyper-local risks"
+  },
+  "userTypes": {
+    "student": "Student",
+    "farmer": "Farmer",
+    "hiker": "Hiker",
+    "traveller": "Traveller",
+    "fisherman": "Fisherman",
+    "other": "General User"
+  },
+  "healthOptions": {
+    "heatstroke": "Heatstroke Risk",
+    "uv_exposure": "High UV Burn",
+    "asthma": "Asthma & Air Quality",
+    "dehydration": "Dehydration Alert",
+    "all": "Select All Conditions",
+    "none": "No Health Conditions"
+  },
+  "tabs": {
+    "home": "Home",
+    "alerts": "Disaster Early Warning",
+    "clothing": "Smart Clothing",
+    "safety": "Outdoor Safety",
+    "routes": "Route Finder",
+    "settings": "Settings"
+  }
+}
